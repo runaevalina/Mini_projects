@@ -1,5 +1,5 @@
 # Mini_projects
-Here I will collect small projects more similar to ad-hoc reports
+Here I will collect small projects more similar to ad-hoc reports.
 
 1. Summer’17 is over, let’s check the **[bookings in the hotel.](https://github.com/runaevalina/Sales_Transactions_Orders/tree/main/Bookings%20_in_hotels)**
 
