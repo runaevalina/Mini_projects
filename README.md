@@ -1,6 +1,10 @@
 # Mini_projects
 Here I will collect small projects more similar to ad-hoc reports.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 1. Summer’17 is over, let’s check the **[bookings in the hotel.](https://github.com/runaevalina/Sales_Transactions_Orders/tree/main/Bookings%20_in_hotels)**
 
 Questions to answer:
